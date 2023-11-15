@@ -1,7 +1,7 @@
 Olá, me chamo Victor
 
-👨‍💻 Estudante 🏠 Brasileiro 🌍 Maceió-AL
+👨‍💻 Estudante - 🏠 Brasileiro - 🌍 Maceió-AL - 🌊 Praiero
 
-🧐 Àreas de interesse - Front-End - Back-End
+💻 Àreas de interesse - Front-End - Back-End
 
-🧑‍🎓 Cursando técnico de informática para internet web
+ Atualmente estudo programação no Senai. 
