@@ -12,7 +12,7 @@
 Ser um ótimo desenvolvedor, adquirindo experiência prática e me aprimorando cada vez mais.  
 
 ## 📫 Como me encontrar  
-- LinkedIn: [](https://linkedin.com/in/victor-oliveira-47258b282)  
+- LinkedIn: [linkedin.com/in/victor-oliveira-47258b282](https://www.linkedin.com/in/victor-oliveira-47258b282)
 
 
 ---
