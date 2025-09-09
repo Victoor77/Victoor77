@@ -1,7 +1,20 @@
-Olá, me chamo Victor
+# 👋 Olá, eu sou o Victor Oliveira  
 
-👨‍💻 Estudante - 🏠 Brasileiro - 🌍 Maceió-AL - 🌊 Praiero
+💻 Tenho 20 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**.  
+🚀 Estou iniciando minha jornada como desenvolvedor, sempre em busca de aprender mais e evoluir.  
 
-💻 Àreas de interesse - Front-End - Back-End
+## 🛠️ Tecnologias que já tive contato  
+- 🌐 HTML, CSS e JavaScript  
+- 🐍 Python  
+- 📚 Atualmente me aprofundando em desenvolvimento web  
 
- Atualmente estudo programação no Senai. 
+## 🎯 Objetivo  
+Ser um ótimo desenvolvedor, adquirindo experiência prática e me aprimorando cada vez mais.  
+
+## 📫 Como me encontrar  
+- LinkedIn: [](https://linkedin.com/in/victor-oliveira-47258b282)  
+
+
+---
+
+✨ *"Aprendendo um pouco a cada dia para construir um futuro brilhante na programação."*
